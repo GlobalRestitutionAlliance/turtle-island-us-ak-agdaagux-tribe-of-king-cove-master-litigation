@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+AGDAAGUX+TRIBE+OF+KING+COVE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+AGDAAGUX+TRIBE+OF+KING+COVE",
+  "title": "Federal Register - AK AGDAAGUX TRIBE OF KING COVE",
+  "fetched_at": "2026-11-23T15:37:18.562523Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 216474,
+  "sha256": "666f72d5524cbafdbcf318222bea8d72c4d89873b5e51c6d7bb4857b93107018",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
